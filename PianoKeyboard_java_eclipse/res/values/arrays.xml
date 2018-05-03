@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="custom_names">
+		<item>Ex1 Symbols</item>
+		<item>Ex2 Emoticons</item>
+		<item>Ex3 Pitch Names</item>
+		<item>Ex4 Hangul 2nd</item>
+	</string-array>
+	
+	<string-array name="ex1_symbols">
+		<item>※</item>
+		<item>☆</item>
+		<item>★</item>
+		<item>○</item>
+		<item>●</item>
+		<item>◎</item>
+		<item>◇</item>
+		<item>◆</item>
+		<item>□</item>
+		<item>■</item>
+		<item>△</item>
+		<item>▲</item>
+		<item>▽</item>
+		<item>▼</item>
+		<item>→</item>
+		<item>←</item>
+		<item>↑</item>
+		<item>↓</item>
+		<item>↔</item>
+		<item>◈</item>
+		<item>▣</item>
+		<item>◐</item>
+		<item>◑</item>
+		<item>♨</item>
+		<item>☎</item>
+		<item>☜</item>
+		<item>☞</item>
+		<item>¶</item>
+	</string-array>
+	
+	<string-array name="ex2_emoticons">
+		<item><![CDATA[_(≥∇≤)ノミ☆]]></item>
+		<item><![CDATA[＼(ご▽ご*)/]]></item>
+		<item><![CDATA[(*￣▽￣)/ ))]]></item>
+		<item><![CDATA[ζ(￣～￣)η]]></item>
+		<item><![CDATA[{{(>_<)}}]]></item>
+		<item><![CDATA[(º д º ;;)]]></item>
+		<item><![CDATA[( ノ` 皿´)ノ]]></item>
+		<item><![CDATA[( ￣ ∇￣)づ ~]]></item>
+		<item><![CDATA[Q(^o^Q)]]></item>
+		<item><![CDATA[(g-.-)9]]></item>
+		<item><![CDATA[s(￣~￣)z]]></item>
+		<item><![CDATA[a(^.^a)]]></item>
+		<item><![CDATA[( ￣ υ￣)]]></item>
+		<item><![CDATA[( `∇´)∠)))]]></item>
+		<item><![CDATA[(*｀д´)_b]]></item>
+		<item><![CDATA[:-#]]></item>
+		<item><![CDATA[:)]]></item>
+		<item><![CDATA[[:)]]></item>
+		<item><![CDATA[:-P]]></item>
+		<item><![CDATA[>;-(]]></item>
+		<item><![CDATA[ㄴ(-_-;;)ㄱ=3=3=3]]></item>
+		<item><![CDATA[＼(>.<;)/]]></item>
+		<item><![CDATA[へ(￣∇￣へ)]]></item>
+		<item><![CDATA[^ε^]]></item>
+		<item><![CDATA[*♥o♥*]]></item>
+		<item><![CDATA[OTL]]></item>
+		<item><![CDATA[Y.Y]]></item>
+		<item><![CDATA[∋.∈]]></item>
+	</string-array>
+	
+	<string-array name="ex3_pitch_names">
+		<item>C</item>
+		<item>D</item>
+		<item>E</item>
+		<item>F</item>
+		<item>G</item>
+		<item>A</item>
+		<item>B</item>
+		<item>C2</item>
+		<item>C2</item>
+		<item>D2</item>
+		<item>E2</item>
+		<item>F2</item>
+		<item>G2</item>
+		<item>A2</item>
+		<item>B2</item>
+		<item>C3</item>
+		<item>C#</item>
+		<item>D#</item>
+		<item>F#</item>
+		<item>G#</item>
+		<item>A#</item>
+		<item>C2#</item>
+		<item>C2#</item>
+		<item>D2#</item>
+		<item>F2#</item>
+		<item>G2#</item>
+		<item>A2#</item>
+		<item>C3#</item>
+	</string-array>
+	
+	<string-array name="ex4_hangul_2nd">
+		<item>ㄱ</item>
+		<item>ㄴ</item>
+		<item>ㅁ</item>
+		<item>ㅂ</item>
+		<item>ㄷ</item>
+		<item>ㅈ</item>
+		<item>ㅅ</item>
+		<item>ㅇ</item>
+		<item>\?</item>
+		<item>!</item>
+		<item>.</item>
+		<item>,</item>
+		<item>;</item>
+		<item>^^</item>
+		<item>~</item>
+		<item>♥</item>
+		<item>ㅗ</item>
+		<item>ㅜ</item>
+		<item>ㅏ</item>
+		<item>ㅓ</item>
+		<item>ㅣ</item>
+		<item>ㅡ</item>
+		<item>ㅋ</item>
+		<item>ㄹ</item>
+		<item>ㅍ</item>
+		<item>ㅌ</item>
+		<item>ㅊ</item>
+		<item>ㅎ</item>
+	</string-array>
+</resources>

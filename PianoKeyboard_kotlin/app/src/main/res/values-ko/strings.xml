@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">피아노 키보드</string>
+	<string name="txt_promote_history">최근단어 자동입력 기능을 사용해 보세요.</string>
+	<string name="txt_promote_custom">사용자 정의 키보드를 추가해 보세요.</string>
+	<string name="alert">주의사항</string>
+	
+	<string name="btn_repeat">반복</string>
+	<string name="btn_setting">설정</string>
+	<string name="btn_close">닫기</string>
+	<string name="btn_delete_history">최근단어 삭제</string>
+	<string name="btn_edit">수정</string>
+	<string name="btn_delete">삭제</string>
+	<string name="btn_copy">복사</string>
+	<string name="btn_add_custom_keyboard">사용자 정의 키보드 추가</string>
+	<string name="btn_save">저장</string>
+	<string name="btn_ok">확인</string>
+	<string name="btn_cancel">취소</string>
+	<string name="btn_commit">완성</string>
+	<string name="btn_space">공백</string>
+	<string name="btn_back">뒤로</string>
+	<string name="btn_enter">엔터</string>
+	<string name="btn_shift">변경</string>
+	<string name="btn_custom_recommend">추천 키맵</string>
+	<string name="btn_custom_reset">초기화</string>
+	<string name="btn_playlog">연주기록</string>
+	
+	<string name="title_setting">키보드 설정</string>	
+	<string name="subtitle_sound">소리 재생 모드 설정</string>
+	<string name="txt_sound_recommended">지정곡 재생</string>
+	<string name="txt_sound_original">원래음 재생</string>
+	<string name="txt_sound_none">소리 제거</string>
+	<string name="txt_sound_notice">* 미디어 볼륨키로 소리크기를 조절하세요</string>
+	<string name="txt_sound_notice_nosound">진동 및 무음 모드에서는 소리가 제거됩니다.</string>
+	<string name="subtitle_history">최근단어 사용설정</string>
+	<string name="txt_history_checkbox">최근 입력한 단어를 저장합니다.</string>
+	<string name="txt_history_alert">최근단어 저장/입력 기능을 사용하시면 본 키보드로 입력하는 단어들을 저장합니다. 비밀번호의 경우도 저장되기 때문에 사용시 주의하시기 바랍니다.</string>
+	<string name="toast_delete_history_ok">최근단어를 삭제했습니다.</string>
+	<string name="toast_delete_history_none">저장된 최근단어가 없습니다.</string>
+	
+	<string name="subtitle_keyboardset">키보드 목록</string>
+	<string name="txt_english">영어</string>
+	<string name="txt_hangul">한글</string>
+	<string name="txt_symbols">기호</string>
+	<string name="txt_notice_custom">* 자판이 마음에 안 드신다면 사용자 정의 키보드를 만들어 보세요</string>
+	
+	<string name="subtitle_custom_keyboard">사용자 정의 키보드</string>
+	<string name="txt_use_custom">사용하기</string>
+	<string name="alert_delete">정말로 삭제하시겠습니까?</string>
+	
+	<string name="title_custom_keyboard">사용자 정의 키보드 추가/수정</string>
+	<string name="title_input_key">단어 또는 키를 입력하세요.</string>
+	<string name="txt_input_title">제목 입력</string>
+	<string name="toast_input_title">제목을 입력해 주세요.</string>
+	<string name="toast_save_ok">저장했습니다.</string>
+	<string name="toast_save_fail">저장 실패했습니다.</string>
+	
+	<string name="subtitle_custom_keyboard_keymap">키맵 - 각 키와 내용을 매핑합니다.</string>
+	<string name="txt_no_keymap">입력된 내용이 없습니다.</string>
+	<string name="txt_piano_white_top">상단 흰색 건반</string>
+	<string name="txt_piano_white_bottom">하단 흰색 건반</string>
+	<string name="txt_piano_black_top">상단 검정색 건반</string>
+	<string name="txt_piano_black_bottom">하단 검정색 건반</string>
+	
+	<string name="title_piano_play">그냥 피아노 연주하기</string>
+	<string name="title_go_settings">피아노 키보드 설정하기</string>
+	<string name="title_change_keyboard">키보드 변경</string>
+	<string name="title_go_android_settings">피아노 키보드 체크하러 하기</string>
+	<string name="txt_go_android_settings"><![CDATA[피아노 키보드가 활성화 되어있지 않습니다.\n환경설정의 언어 및 키보드 설정에서 피아노 키보드를 체크해 주세요.\n아래 버튼을 통해 바로 이동하실 수 있습니다.]]></string>
+	<string name="txt_change_keyboard"><![CDATA[현재 다른 키보드를 사용 중입니다.\n아래 버튼을 눌러 피아노 키보드를 선택하실 수 있습니다.]]></string>
+	<string name="txt_hint_test">아래 설명을 참고하여 글자를 입력해 보세요</string>
+	<string name="txt_no_playlog">연주 기록이 없습니다. 피아노를 연주해 보세요.</string>
+	
+	<string name="title_guide">피아노 키보드 사용하기</string>
+	<string name="txt_guide_1">1. 피아노 키보드는 피아노 건반 형상의 키보드입니다.</string>
+	<string name="txt_guide_2">2. 설정 화면에서 소리 재생 모드, 최근단어 사용, 키보드 목록, 사용자 정의 키보드 관련 설정을 할 수 있습니다.</string>
+	<string name="txt_guide_3">3. 소리 재생 모드 설정은 건반을 눌렀을 때 소리가 어떻게 재생될 지에 대한 설정입니다.</string>
+	<string name="txt_guide_3_1">3-1. 지정곡 재생 : 글자를 연속적으로 입력할 때 익숙한 음악이 재생되는 듯한 느낌을 줍니다.</string>
+	<string name="txt_guide_3_2">3-2. 원래음 재생 : 글자가 있는 건반에 대한 원래의 피아노 음을 재생합니다.</string>
+	<string name="txt_guide_3_3">3-3. 소리 제거 : 소리를 제거합니다.</string>
+	<string name="txt_guide_4">4. 글자를 입력할 때 단어를 추천해 줍니다.</string>
+	<string name="txt_guide_5">5. 글자 입력시 키보드 목록에 체크되어 있는 자판들을 이용할 수 있습니다.</string>
+	<string name="txt_guide_6">6. 사용자 정의 키보드를 활용하면 사용자가 단어 또는 글자를 키보드 자판의 원하는 위치에 배열하여 키보드를 만들 수 있습니다.</string>
+	<string name="txt_guide_7">7. 건반을 터치하는 순간 글자가 입력되며, 터치한 채로 이동하면 글자들이 이어서 입력이 됩니다. 한글의 경우 자판의 배열은 곁자음과 곁모음을 최대한 한번에 입력할 수 있도록 했습니다. 예를 들어, ㅘ 의 경우 ㅗ를 터치한채로 ㅏ로 이동하면 됩니다. 그리고, 중모음의 경우는 모음을 두번 터치하면 됩니다. 예를 들어, ㅛ는 ㅗ를 두번 누르면 됩니다.</string>
+	
+</resources>

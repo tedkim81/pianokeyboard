@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Piano Keyboard</string>
+	<string name="txt_promote_history">Use the word history feature.</string>
+	<string name="txt_promote_custom">Add the custom keyboard</string>
+	<string name="alert">Alert</string>
+	
+	<string name="btn_repeat">REP</string>
+	<string name="btn_setting">SET</string>
+	<string name="btn_close">CLOSE</string>
+	<string name="btn_delete_history">Delete word history</string>
+	<string name="btn_edit">MODIFY</string>
+	<string name="btn_delete">DELETE</string>
+	<string name="btn_copy">COPY</string>
+	<string name="btn_add_custom_keyboard">Add the custom keyboard</string>
+	<string name="btn_save">SAVE</string>
+	<string name="btn_ok">OK</string>
+	<string name="btn_cancel">CANCEL</string>
+	<string name="btn_commit">COMMIT</string>
+	<string name="btn_space">SPACE</string>
+	<string name="btn_back">BACK</string>
+	<string name="btn_enter">ENTER</string>
+	<string name="btn_shift">SHIFT</string>
+	<string name="btn_custom_recommend">Recommend Keymap</string>
+	<string name="btn_custom_reset">Reset</string>
+	<string name="btn_playlog">Play Log</string>
+	
+	<string name="title_setting">Keyboard Settings</string>	
+	<string name="subtitle_sound">Play Sound Settings</string>
+	<string name="txt_sound_recommended">Recommended</string>
+	<string name="txt_sound_original">Original</string>
+	<string name="txt_sound_none">No Sound</string>
+	<string name="txt_sound_notice">* Control volume by media volume button</string>
+	<string name="txt_sound_notice_nosound">If device is in SILENT or VIBRATE, no sound is played.</string>
+	<string name="subtitle_history">Word History Settings</string>
+	<string name="txt_history_checkbox">Save recent word that you input.</string>
+	<string name="txt_history_alert">If you use this feature, NoLook Keyboard save the word that you input. Because it includes password, please be careful.</string>
+	<string name="toast_delete_history_ok">Delete word history successfully.</string>
+	<string name="toast_delete_history_none">No word history.</string>
+	
+	<string name="subtitle_keyboardset">Keyboard Set</string>
+	<string name="txt_english">ENGLISH</string>
+	<string name="txt_hangul">HANGUL</string>
+	<string name="txt_symbols">SYMBOLS</string>
+	<string name="txt_notice_custom">* If you are not satisfied, please make your Custom Keyboards</string>
+	
+	<string name="subtitle_custom_keyboard">Custom Keyboards</string>
+	<string name="txt_use_custom">Use this</string>
+	<string name="alert_delete">Would you really delete?</string>
+	
+	<string name="title_custom_keyboard">Add/Modify Custom Keyboard</string>
+	<string name="title_input_key">Input word or key</string>
+	<string name="txt_input_title">Input Title</string>
+	<string name="toast_input_title">Please input title.</string>
+	<string name="toast_save_ok">save done successfully</string>
+	<string name="toast_save_fail">fail to save</string>
+	
+	<string name="subtitle_custom_keyboard_keymap">Keymap - map of key and word</string>
+	<string name="txt_no_keymap">No Data</string>
+	<string name="txt_piano_white_top">White Top</string>
+	<string name="txt_piano_white_bottom">White Bottom</string>
+	<string name="txt_piano_black_top">Black Top</string>
+	<string name="txt_piano_black_bottom">Black Bottom</string>
+	
+	<string name="title_piano_play">Just Play Piano</string>
+	<string name="title_go_settings">Piano Keyboard Settings</string>
+	<string name="title_change_keyboard">Change Keyboard</string>
+	<string name="title_go_android_settings">Go to enable the Piano Keyboard</string>
+	<string name="txt_go_android_settings"><![CDATA[ Piano Keyboard is disabled now.\nIn Android Settings > Language&keyboard, you can check the Piano Keyboard.\nYou can move directly by button below. ]]></string>
+	<string name="txt_change_keyboard"><![CDATA[ You don\'t use Piano Keyboard now.\nYou can select the Piano Keyboard by button below. ]]></string>
+	<string name="txt_hint_test">Input Test</string>
+	<string name="txt_no_playlog">There is no play log.</string>
+	
+	<string name="title_guide">Piano Keyboard Guide</string>
+	<string name="txt_guide_1">1. Piano Keyboard is the input method that look like piano.</string>
+	<string name="txt_guide_2">2. In settings activity, you can control Play Sound Settings, Word History Settings, Keyboard Set, Custom Keyboards.</string>
+	<string name="txt_guide_3">3. Play Sound Settings</string>
+	<string name="txt_guide_3_1">3-1. Recommended : When you type, you will listen familiar music.</string>
+	<string name="txt_guide_3_2">3-2. Original : The sounds are all in place.</string>
+	<string name="txt_guide_3_3">3-3. No Sound : It does not play the sound.</string>
+	<string name="txt_guide_4">4. Words will be recommended when you type.</string>
+	<string name="txt_guide_5">5. Keyboard Set : You can use the keyboards that be checked.</string>
+	<string name="txt_guide_6">6. Custom Keyboards : You can make your custom keyboards.</string>
+	<string name="txt_guide_7"></string>
+	
+</resources>

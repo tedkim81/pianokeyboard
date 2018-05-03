@@ -1,0 +1,17 @@
+.DS_Store
+
+/PianoKeyboard_kotlin/.gradle
+/PianoKeyboard_kotlin/local.properties
+/PianoKeyboard_kotlin/.idea/workspace.xml
+/PianoKeyboard_kotlin/.idea/libraries
+/PianoKeyboard_kotlin/.DS_Store
+/PianoKeyboard_kotlin/build
+/PianoKeyboard_kotlin/app/build
+/PianoKeyboard_kotlin/import-summary.txt
+
+/PianoKeyboard_java_eclipse/.settings
+/PianoKeyboard_java_eclipse/bin
+/PianoKeyboard_java_eclipse/gen
+/PianoKeyboard_java_eclipse/.classpath
+/PianoKeyboard_java_eclipse/.project
+/PianoKeyboard_java_eclipse/local.properties
